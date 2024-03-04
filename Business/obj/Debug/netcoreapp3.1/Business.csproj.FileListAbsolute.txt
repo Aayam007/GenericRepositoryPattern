@@ -1,0 +1,16 @@
+C:\Users\Bishow Shrestha\Desktop\GenericRepositoryPattern\Business\bin\Debug\netcoreapp3.1\Business.deps.json
+C:\Users\Bishow Shrestha\Desktop\GenericRepositoryPattern\Business\bin\Debug\netcoreapp3.1\Business.dll
+C:\Users\Bishow Shrestha\Desktop\GenericRepositoryPattern\Business\bin\Debug\netcoreapp3.1\Business.pdb
+C:\Users\Bishow Shrestha\Desktop\GenericRepositoryPattern\Business\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\Bishow Shrestha\Desktop\GenericRepositoryPattern\Business\bin\Debug\netcoreapp3.1\Persistence.dll
+C:\Users\Bishow Shrestha\Desktop\GenericRepositoryPattern\Business\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\Bishow Shrestha\Desktop\GenericRepositoryPattern\Business\bin\Debug\netcoreapp3.1\Persistence.pdb
+C:\Users\Bishow Shrestha\Desktop\GenericRepositoryPattern\Business\obj\Debug\netcoreapp3.1\Business.csproj.AssemblyReference.cache
+C:\Users\Bishow Shrestha\Desktop\GenericRepositoryPattern\Business\obj\Debug\netcoreapp3.1\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bishow Shrestha\Desktop\GenericRepositoryPattern\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfoInputs.cache
+C:\Users\Bishow Shrestha\Desktop\GenericRepositoryPattern\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfo.cs
+C:\Users\Bishow Shrestha\Desktop\GenericRepositoryPattern\Business\obj\Debug\netcoreapp3.1\Business.csproj.CoreCompileInputs.cache
+C:\Users\Bishow Shrestha\Desktop\GenericRepositoryPattern\Business\obj\Debug\netcoreapp3.1\Business.sourcelink.json
+C:\Users\Bishow Shrestha\Desktop\GenericRepositoryPattern\Business\obj\Debug\netcoreapp3.1\Business.csproj.CopyComplete
+C:\Users\Bishow Shrestha\Desktop\GenericRepositoryPattern\Business\obj\Debug\netcoreapp3.1\Business.dll
+C:\Users\Bishow Shrestha\Desktop\GenericRepositoryPattern\Business\obj\Debug\netcoreapp3.1\Business.pdb

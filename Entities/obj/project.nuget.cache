@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "TN1ZlMlPIWXZwg6L8g1jDzsHc+QS6w3KZxB06PLzQM/u9e1nzartgx4BWDr1OOrtB9Sk4MEmuLyDGci3fQLyeQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bishow Shrestha\\Desktop\\GenericRepositoryPattern\\Entities\\Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bishow Shrestha\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\Bishow Shrestha\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

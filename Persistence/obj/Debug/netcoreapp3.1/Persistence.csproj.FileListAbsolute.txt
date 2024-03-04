@@ -1,0 +1,14 @@
+C:\Users\Bishow Shrestha\Desktop\GenericRepositoryPattern\Persistence\bin\Debug\netcoreapp3.1\Persistence.deps.json
+C:\Users\Bishow Shrestha\Desktop\GenericRepositoryPattern\Persistence\bin\Debug\netcoreapp3.1\Persistence.dll
+C:\Users\Bishow Shrestha\Desktop\GenericRepositoryPattern\Persistence\bin\Debug\netcoreapp3.1\Persistence.pdb
+C:\Users\Bishow Shrestha\Desktop\GenericRepositoryPattern\Persistence\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\Bishow Shrestha\Desktop\GenericRepositoryPattern\Persistence\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\Bishow Shrestha\Desktop\GenericRepositoryPattern\Persistence\obj\Debug\netcoreapp3.1\Persistence.csproj.AssemblyReference.cache
+C:\Users\Bishow Shrestha\Desktop\GenericRepositoryPattern\Persistence\obj\Debug\netcoreapp3.1\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bishow Shrestha\Desktop\GenericRepositoryPattern\Persistence\obj\Debug\netcoreapp3.1\Persistence.AssemblyInfoInputs.cache
+C:\Users\Bishow Shrestha\Desktop\GenericRepositoryPattern\Persistence\obj\Debug\netcoreapp3.1\Persistence.AssemblyInfo.cs
+C:\Users\Bishow Shrestha\Desktop\GenericRepositoryPattern\Persistence\obj\Debug\netcoreapp3.1\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Bishow Shrestha\Desktop\GenericRepositoryPattern\Persistence\obj\Debug\netcoreapp3.1\Persistence.sourcelink.json
+C:\Users\Bishow Shrestha\Desktop\GenericRepositoryPattern\Persistence\obj\Debug\netcoreapp3.1\Persistence.csproj.CopyComplete
+C:\Users\Bishow Shrestha\Desktop\GenericRepositoryPattern\Persistence\obj\Debug\netcoreapp3.1\Persistence.dll
+C:\Users\Bishow Shrestha\Desktop\GenericRepositoryPattern\Persistence\obj\Debug\netcoreapp3.1\Persistence.pdb
